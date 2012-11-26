@@ -28,9 +28,9 @@ dForms is extension for creating online forms for your WordPress site.
 
 == Screenshots ==
 
-1.`/assets/screenshot-1.png`
-2.`/assets/screenshot-2.png`
-3.`/assets/screenshot-3.png`
+/assets/screenshot-1.png
+/assets/screenshot-2.png
+/assets/screenshot-3.png
 
 == Changelog ==
 
